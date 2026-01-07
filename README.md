@@ -109,16 +109,6 @@ indrajeet@github:~$ cat achievements.log
 
 <br/>
 
-<!-- Snake -->
-```bash
-indrajeet@github:~$ ./run_snake_animation.sh
-```
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/Indrajeety993648/Indrajeety993648/output/github-contribution-grid-snake-dark.svg"/>
-</div>
-
-<br/>
 
 <!-- Footer -->
 <div align="center">
