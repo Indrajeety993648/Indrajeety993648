@@ -1,25 +1,144 @@
-# 💫 About Me:
-🚀 I am Indrajeet Yadav, a Computer Science student, Software Developer, and MERN Developer.<br>🌱 Passionate about learning new technologies and solving complex problems with innovative solutions.<br>🤝 I enjoy collaborating with others on challenging projects and exploring different perspectives.<br>🔍 Always on the lookout for opportunities to contribute to open-source projects and make a positive impact.<br>💡 I'm currently delving into the world of AI and machine learning, eager to integrate these technologies into real-world applications.<br>📚 Lifelong learner with a deep interest in data structures, algorithms, and system design.<br>✈️ Hobbies: Traveling, meeting like-minded people, and sharing knowledge with each other .<br>🎯 Future Goals: To become a leading Software Developer with expertise in AI and Machine Learning, driving innovation and building intelligent systems that solve real-world problems.<br>
+<div align="center">
 
+<!-- Matrix Header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:003300,100:000000&height=200&section=header&text=INDRAJEET%20YADAV&fontSize=45&fontColor=00ff00&animation=twinkling&fontAlignY=35&desc=%5B%20Full%20Stack%20Developer%20%7C%20MERN%20%7C%20AI/ML%20%5D&descAlignY=55&descSize=16&descColor=00ff00"/>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/indrajeet-yadav-5619b8283/) 
+<!-- Typing SVG - Terminal Style -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&repeat=true&width=600&height=70&lines=%24+whoami;%24+Indrajeet+Yadav+--+Software+Developer;%24+./execute+passion+%26%26+code+%26%26+innovate;%24+sudo+hire+--indrajeet+%F0%9F%9A%80" alt="Typing SVG"/>
+</a>
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?logo=leetcode&logoColor=white)](https://leetcode.com/u/Indrajeet99yadav/)
+<br/>
 
+<!-- Terminal Social Links -->
+```bash
+indrajeet@github:~$ cat social_links.txt
+```
 
+<a href="https://www.linkedin.com/in/indrajeet-yadav-5619b8283/">
+  <img src="https://img.shields.io/badge/-LinkedIn-000000?style=flat-square&logo=linkedin&logoColor=00ff00"/>
+</a>
+<a href="https://leetcode.com/u/Indrajeet99yadav/">
+  <img src="https://img.shields.io/badge/-LeetCode-000000?style=flat-square&logo=leetcode&logoColor=00ff00"/>
+</a>
+<a href="mailto:your.email@gmail.com">
+  <img src="https://img.shields.io/badge/-Email-000000?style=flat-square&logo=gmail&logoColor=00ff00"/>
+</a>
 
-# 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Chakra](https://img.shields.io/badge/chakra-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white) ![Context-API](https://img.shields.io/badge/Context--Api-000000?style=for-the-badge&logo=react) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Adobe Acrobat Reader](https://img.shields.io/badge/Adobe%20Acrobat%20Reader-EC1C24.svg?style=for-the-badge&logo=Adobe%20Acrobat%20Reader&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Babel](https://img.shields.io/badge/Babel-F9DC3e?style=for-the-badge&logo=babel&logoColor=black) ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Indrajeety993648&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Indrajeety993648&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Indrajeety993648&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+</div>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Indrajeety993648&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+<br/>
 
----
-[![](https://visitcount.itsvg.in/api?id=Indrajeety993648&icon=0&color=0)](https://visitcount.itsvg.in)
+<!-- Terminal About -->
+```bash
+indrajeet@github:~$ neofetch
+```
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+```
+                    indrajeet@developer
+ ██████████████     ----------------------
+ ██          ██     OS: Developer Life 24.7
+ ██  ██  ██  ██     Host: India 🇮🇳
+ ██          ██     Kernel: Computer Science
+ ██████████████     Uptime: 20+ years
+ ██          ██     
+ ██  ██████  ██     LANGUAGES: JavaScript, Java, Python
+ ██          ██     FRONTEND: React, Next.js, React Native
+ ██████████████     BACKEND: Node.js, Express.js
+                    DATABASE: MongoDB, MySQL
+   @Indrajeety      AI/ML: TensorFlow, scikit-learn, OpenCV
+                    TOOLS: Git, VS Code, Postman
+                    
+                    Currently: Learning System Design & Cloud
+                    Status: Open to opportunities 🟢
+```
+
+<br/>
+
+<!-- Skills Section -->
+```bash
+indrajeet@github:~$ ls -la ./skills/
+```
+
+<div align="center">
+
+| Category | Technologies |
+|----------|-------------|
+| `languages/` | ![JavaScript](https://img.shields.io/badge/JavaScript-000?style=flat-square&logo=javascript&logoColor=00ff00) ![Java](https://img.shields.io/badge/Java-000?style=flat-square&logo=openjdk&logoColor=00ff00) ![Python](https://img.shields.io/badge/Python-000?style=flat-square&logo=python&logoColor=00ff00) |
+| `frontend/` | ![React](https://img.shields.io/badge/React-000?style=flat-square&logo=react&logoColor=00ff00) ![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=next.js&logoColor=00ff00) ![Tailwind](https://img.shields.io/badge/Tailwind-000?style=flat-square&logo=tailwindcss&logoColor=00ff00) |
+| `backend/` | ![Node.js](https://img.shields.io/badge/Node.js-000?style=flat-square&logo=node.js&logoColor=00ff00) ![Express](https://img.shields.io/badge/Express-000?style=flat-square&logo=express&logoColor=00ff00) |
+| `database/` | ![MongoDB](https://img.shields.io/badge/MongoDB-000?style=flat-square&logo=mongodb&logoColor=00ff00) ![MySQL](https://img.shields.io/badge/MySQL-000?style=flat-square&logo=mysql&logoColor=00ff00) |
+| `ai_ml/` | ![TensorFlow](https://img.shields.io/badge/TensorFlow-000?style=flat-square&logo=tensorflow&logoColor=00ff00) ![OpenCV](https://img.shields.io/badge/OpenCV-000?style=flat-square&logo=opencv&logoColor=00ff00) |
+| `tools/` | ![Git](https://img.shields.io/badge/Git-000?style=flat-square&logo=git&logoColor=00ff00) ![VS Code](https://img.shields.io/badge/VS_Code-000?style=flat-square&logo=visualstudiocode&logoColor=00ff00) ![Postman](https://img.shields.io/badge/Postman-000?style=flat-square&logo=postman&logoColor=00ff00) |
+
+</div>
+
+<br/>
+
+<!-- GitHub Stats -->
+```bash
+indrajeet@github:~$ ./fetch_github_stats.sh
+```
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Indrajeety993648&show_icons=true&hide_border=true&bg_color=000000&title_color=00ff00&icon_color=00ff00&text_color=00ff00&ring_color=00ff00" width="49%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Indrajeety993648&hide_border=true&background=000000&stroke=003300&ring=00ff00&fire=00ff00&currStreakNum=00ff00&sideNums=00ff00&currStreakLabel=00ff00&sideLabels=00ff00&dates=006600" width="49%"/>
+
+</div>
+
+<br/>
+
+<!-- Activity Graph -->
+```bash
+indrajeet@github:~$ git log --graph --oneline --all
+```
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Indrajeety993648&bg_color=000000&color=00ff00&line=00ff00&point=ffffff&area=true&area_color=001a00&hide_border=true&custom_title=Contribution%20Matrix"/>
+
+<br/>
+
+<!-- Trophies -->
+```bash
+indrajeet@github:~$ cat achievements.log
+```
+
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=Indrajeety993648&theme=matrix&no-frame=true&no-bg=true&column=7&margin-w=10"/>
+</div>
+
+<br/>
+
+<!-- Snake -->
+```bash
+indrajeet@github:~$ ./run_snake_animation.sh
+```
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/Indrajeety993648/Indrajeety993648/output/github-contribution-grid-snake-dark.svg"/>
+</div>
+
+<br/>
+
+<!-- Footer -->
+<div align="center">
+
+```
+╔═══════════════════════════════════════════════════════════════════════════╗
+║                                                                           ║
+║  [root@system]$ echo "Talk is cheap. Show me the code." - Linus Torvalds  ║
+║                                                                           ║
+║  STATUS: Online and ready to collaborate                                  ║
+║  MISSION: Building the future, one commit at a time                       ║
+║                                                                           ║
+╚═══════════════════════════════════════════════════════════════════════════╝
+```
+
+```bash
+indrajeet@github:~$ exit
+# Thanks for visiting! Let's connect 🤝
+```
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:003300,100:000000&height=100&section=footer"/>
+
+</div>
