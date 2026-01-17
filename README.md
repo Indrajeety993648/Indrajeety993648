@@ -146,7 +146,7 @@ const indrajeet = {
 - Coming soon...
 <!-- BLOG-POST-LIST:END -->
 
-👉 **[Read more on Medium →](https://medium.com/@yadavindrajeet9936)**
+👉 **[Read more on Medium →](https://medium.com/@yadavindrajeet99)**
 
 </div>
 
